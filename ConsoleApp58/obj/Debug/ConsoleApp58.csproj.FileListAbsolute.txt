@@ -1,0 +1,13 @@
+C:\Users\Lox\source\repos\ConsoleApp58\ConsoleApp58\bin\Debug\ConsoleApp58.exe.config
+C:\Users\Lox\source\repos\ConsoleApp58\ConsoleApp58\bin\Debug\ConsoleApp58.exe
+C:\Users\Lox\source\repos\ConsoleApp58\ConsoleApp58\bin\Debug\ConsoleApp58.pdb
+C:\Users\Lox\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.csproj.CoreCompileInputs.cache
+C:\Users\Lox\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.exe
+C:\Users\Lox\source\repos\ConsoleApp58\ConsoleApp58\obj\Debug\ConsoleApp58.pdb
+C:\Users\Lox\Desktop\wow\ConsoleApp58\bin\Debug\ConsoleApp58.exe.config
+C:\Users\Lox\Desktop\wow\ConsoleApp58\bin\Debug\ConsoleApp58.exe
+C:\Users\Lox\Desktop\wow\ConsoleApp58\bin\Debug\ConsoleApp58.pdb
+C:\Users\Lox\Desktop\wow\ConsoleApp58\obj\Debug\ConsoleApp58.csprojAssemblyReference.cache
+C:\Users\Lox\Desktop\wow\ConsoleApp58\obj\Debug\ConsoleApp58.csproj.CoreCompileInputs.cache
+C:\Users\Lox\Desktop\wow\ConsoleApp58\obj\Debug\ConsoleApp58.exe
+C:\Users\Lox\Desktop\wow\ConsoleApp58\obj\Debug\ConsoleApp58.pdb
